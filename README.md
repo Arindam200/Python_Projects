@@ -15,6 +15,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 - On the [Python_Projects](https://github.com/Arindam200/Python_Projects) repo page, click the **Fork** button.
     <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" title="Fork image" width="400"/>
 - **Clone** your forked repository to your local machine. This button will show you the URL to run.
+    
     <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
 
     For example, run this command inside your terminal:
@@ -70,6 +71,8 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 - Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification.
+
+
 # Hi, I'm Arindam! 👋
 
 
