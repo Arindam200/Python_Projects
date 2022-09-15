@@ -13,7 +13,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 - Check existing scripts in the [projects](/projects/) directory.
 - **Star** this repository.
 - On the [Python_Projects](https://github.com/Arindam200/Python_Projects) repo page, click the **Fork** button.
-    <br><img src="https://help.github.com/assets/images/help/repository/fork_button.jpg" title="Fork image" width="400"/>
+    <br><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png" title="Fork image" width="400"/>
 - **Clone** your forked repository to your local machine. This button will show you the URL to run.
     <br><img src="https://docs.github.com/assets/images/help/repository/code-button.png" title="Code button" width="400"/>
 
