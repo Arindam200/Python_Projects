@@ -94,6 +94,7 @@ Python,Go,HTML,CSS
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Arindam_1729)
 
 
+
 ## Authors
 
 - [Arindam Majumder](https://github.com/Arindam200)
@@ -106,3 +107,6 @@ Contributions are always welcome!
 Please adhere to this project's `code of conduct`.
 
 
+<p align="center">
+<img src="https://github.com/Arindam200/Python_Projects/blob/master/gitartwork.svg" />
+</p>
