@@ -1,8 +1,8 @@
-name: gitartwork from a contribution graph
+ name: gitartwork from a contribution graph
  on: 
    push:
    schedule:
-     - cron: '* */24 * * *'
+     - cron: '* */6 * * *'
  jobs:
    build:
      name: Make gitartwork SVG
@@ -12,7 +12,7 @@ name: gitartwork from a contribution graph
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: jasineri
+            user_name: Arindam200
             # Text on contribution graph 
-            text: THANK YOU
+            text: ThankYou
        - uses: jasineri/simple-push-action@v1
