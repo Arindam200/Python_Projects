@@ -97,7 +97,7 @@ Python,Go,HTML,CSS
 
 ## Authors
 
-- [Arindam Majumder](https://github.com/Arindam200)
+- [Arindam Majumder](https://github.com/Arindam200).
 
 
 ## Contributors
