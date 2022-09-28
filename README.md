@@ -66,7 +66,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 - Go to the GitHub page of _your fork_, and **make a pull request**:
 
-    ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+    ![pull request image](https://docs.github.com/assets/cb-26223/images/help/pull_requests/pullrequest-send.png)
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 - Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification.
