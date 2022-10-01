@@ -26,7 +26,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     git clone https://github.com/<your-github-username>/Python_Projects.git
     ```
 
-    **Replace \<your-github-username\>!**
+    **Replace \<your-github-username\> with your GitHub Username!**
 
     Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
