@@ -102,12 +102,16 @@ Python,Go,HTML,CSS
 
 - [Arindam Majumder](https://github.com/Arindam200).
 
-
-## Contributors
+## Thanks to all Contributors 💪 
 
 Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
+
+Thanks a lot for spending your time helping all-round-calculator grow. Thanks a lot! Keep rocking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=Arindam200/Python_Projects)](https://github.com/Arindam200/Python_Projects/graphs/contributors)
+
 
 
 <p align="center">
