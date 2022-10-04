@@ -110,7 +110,7 @@ Please adhere to this project's `code of conduct`.
 
 Thanks a lot for spending your time helping all-round-calculator grow. Thanks a lot! Keep rocking 🍻
 
-[![Contributors](https://contrib.rocks/image?repo=Arindam200/Python_Projects)](https://github.com/Arindam200/Python_Projects/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Arindam200/Python_Projects)
 
 
 
