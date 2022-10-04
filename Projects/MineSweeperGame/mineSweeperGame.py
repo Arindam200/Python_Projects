@@ -11,9 +11,6 @@ class Board:
         # helper function!
         self.board = self.make_new_board() # plant the bombs
         self.assign_values_to_board()
-
-        # initialize a set to keep track of which locations we've uncovered
-        # we'll save (row,col) tuples into this set 
         self.dug = set() # if we dig at 0, 0, then self.dug = {(0,0)}
 
     def make_new_board(self):
