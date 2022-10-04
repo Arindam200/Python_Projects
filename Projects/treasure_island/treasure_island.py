@@ -42,7 +42,7 @@ def HighScore(startTime, endTime, playerName):
         # else if this is the high score then write it on the top of the file
 
 
-def findTreausre():
+def findTreasure():
     asciiArt()
     win = False
     print('''
@@ -86,4 +86,4 @@ def findTreausre():
 
 
 if __name__ == '__main__':
-    findTreausre()
+    findTreasure()
