@@ -20,10 +20,7 @@ A Collection of Beginner Python Projects.
 
 If you want to learn about python, visit [here.](https://github.com/Python-World/Py-Resources)
 
-If you are new to Github and open source then, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
-
 ## ⭐ How to get started with open source?
-
 
 You can refer to the following articles on the basics of Git and Github.
 
@@ -32,6 +29,7 @@ You can refer to the following articles on the basics of Git and Github.
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+
 
 ## Steps To Follow
 
