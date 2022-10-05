@@ -1,4 +1,4 @@
-<p align="center"><b><h1>Python Projects is ready for Hacktoberfest</h1></b></p>
+<p align="center"><b><h1>Python Projects is ready for Hacktoberfest🥳🥳🥳🥳</h1></b></p>
  <a href="https://hacktoberfest.com/">
  <img width="1200" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/79099734/189589410-ca17afb8-5855-4316-918a-054f27594809.png">
  </a>
