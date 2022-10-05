@@ -1,4 +1,16 @@
-
+<p align="center"><b><h1>Python Projects is ready for Hacktoberfest🥳🥳🥳🥳</h1></b></p>
+ <a href="https://hacktoberfest.com/">
+ <img width="1200" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/79099734/189589410-ca17afb8-5855-4316-918a-054f27594809.png">
+ </a>
+ <br><br>
+<p align="center">
+    <img src="https://img.shields.io/github/issues/Arindam200/Python_Projects"> 
+    <img src="https://img.shields.io/github/issues-pr/Arindam200/Python_Projects">
+    <img src="https://img.shields.io/github/forks/Arindam200/Python_Projects">
+    <img src="https://img.shields.io/github/stars/Arindam200/Python_Projects">
+    <img src="https://img.shields.io/github/license/Arindam200/Python_Projects">
+</p>
+ 
 # Python Projects 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/abhisheks008) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/abhisheks008) 
@@ -8,7 +20,16 @@ A Collection of Beginner Python Projects.
 
 If you want to learn about python, visit [here.](https://github.com/Python-World/Py-Resources)
 
-If you are new to Github and open source then, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+## ⭐ How to get started with open source?
+
+You can refer to the following articles on the basics of Git and Github.
+
+- [Watch this video to get started, if you have no clue about open source](https://youtu.be/SYtPC9tHYyQ)
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+
 
 ## Steps To Follow
 
@@ -98,9 +119,15 @@ Python,Go,HTML,CSS
 
 
 
-## Authors
+## 😎 Project Maintainers
 
-- [Arindam Majumder](https://github.com/Arindam200).
+<table>
+  <tr>
+
+<td align="center"><a href="https://github.com/Arindam200"><img src="https://avatars.githubusercontent.com/u/109217591?v=4" width="100px;" alt=""/><br /><sub><b>Arindam Majumder</b></sub></a></td>
+   
+ </tr>
+</table>
 
 ## Thanks to all Contributors 💪 
 
