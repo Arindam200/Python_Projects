@@ -1,0 +1,30 @@
+
+import random
+word_list = ["apple", "banana", "cherry", "watermelon", "tomato", "pumpkin",
+             "peacock", "eagle", "tiger", "leopard", "elephant", "rhinoceros",
+             "science", "english", "mathematics", "commerce", "school", "playground",
+             "plants", "solar", "nuclear", "hydro", "water", "mantle", "insects"]
+word = random.choice(word_list)
+tries = 0
+length = len(word)
+print(f"There are {length} letters in the word")
+
+while tries < length:
+    guess = input("Enter your letter: ").lower()
+    if len(guess) != length or guess.isalpha is False:
+        print("Invalid Input: Please enter a word with the required number of letters")
+        continue
+    if guess is word:
+        print(f"YOU HAVE WON!!\nThe word was: {word}")
+        break
+    guess_list = list(guess)
+    for i in range(length):
+        if guess_list[i] in word and guess_list[i] != word[i]:
+            guess_list[i] = guess_list[i].upper()
+        elif guess_list[i] not in word[i]:
+            guess_list[i] = "_"
+    print(" ".join(guess_list))
+    tries += 1
+
+else:
+    print(f"You lost :(\nThe word was: {word}")
