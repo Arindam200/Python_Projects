@@ -1,3 +1,4 @@
+import os
 import random as rd
 
 paper='''
@@ -27,64 +28,70 @@ scissors='''
     ----\_____(______) '''
     
 
-available_choice=[paper,rock,scissors]    
+available_choice=[paper,rock,scissors]
 
-print('**************** Happy Gaming ********************')
+while True:
+    os.system('clear')
+    print('**************** Happy Gaming ********************')
 
-print(r"Enter '0' For Paper")
+    print(r"Enter '0' For Paper")
 
-print(r"Enter '1' For Rock")
+    print(r"Enter '1' For Rock")
 
-print(r"Enter '2' For scissors")
+    print(r"Enter '2' For scissors")
 
 
-user_choice=int(input(('Please Enter You Choice : ')))
+    user_choice=int(input(('Please Enter Your Choice : ')))
 
-if user_choice >=0 and  user_choice <=2:
+    if user_choice >=0 and  user_choice <=2:
 
-    print(f'Your Choice  : {available_choice[user_choice]}\n')
+        print(f'Your Choice  : {available_choice[user_choice]}\n')
 
-    print('Computer Choice : ')
+        print('Computer Choice : ')
 
-    computer_choice=rd.randint(0,2)
+        computer_choice=rd.randint(0,2)
 
-    print(available_choice[computer_choice])
+        print(available_choice[computer_choice])
 
-    if user_choice > computer_choice :
+        if user_choice > computer_choice :
 
-        if computer_choice == 0:
+            if computer_choice == 0:
 
-            print(r'You Win ! (:')
+                print(r'You Win ! (:')
 
-        else:
+            else:
 
-            print(r'You Lose ! ):')
+                print(r'You Lose ! ):')
 
-    elif user_choice < computer_choice :
+        elif user_choice < computer_choice :
 
-        if computer_choice == 1:
+            if computer_choice == 1:
 
-            print(r'You Lose !):')
+                print(r'You Lose !):')
 
-        else:
+            else:
 
-            print(r'You Win ! (:')
+                print(r'You Win ! (:')
 
-    elif user_choice == 1:
+        elif user_choice == 1:
 
-        if computer_choice == 0:
+            if computer_choice == 0:
 
-            print(r'You Lose ! (:')
+                print(r'You Lose ! (:')
 
-        elif computer_choice == 2:
+            elif computer_choice == 2:
 
-            print(r'You Win ! ):')
+                print(r'You Win ! ):')
 
-    elif user_choice == computer_choice :
+        elif user_choice == computer_choice :
 
-        print("It's A Draw")
+            print("It's A Draw")
 
-else:
+    else:
 
-    print('Invalid Input Entered ! Please Try Again' )
+        print('Invalid Input Entered ! Please Try Again' )
 
+    restart = input('Try Again? (y/n) : ').lower()
+
+    if restart != 'y':
+        break
