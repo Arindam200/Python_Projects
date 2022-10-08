@@ -137,8 +137,8 @@ Please adhere to this project's `code of conduct`.
 
 Thanks a lot for spending your time helping all-round-calculator grow. Thanks a lot! Keep rocking 🍻
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Arindam200/Python_Projects"/>
+<a href="https://github.com/Arindam200/Python_Projects/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Arindam200/Python_Projects" />
 </a>
 
 
