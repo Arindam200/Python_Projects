@@ -1,0 +1,73 @@
+{% load static %}
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> {% block title %}{% endblock title %}|wallpapers  </title>
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="css/text" href="{% static 'css/style.css' %}">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    </head>
+    <body>
+     
+        <div class="container">
+    <form action="/analyse" method="get">
+        <div class="container">
+            <h1 style="
+            position: relative;
+            left: 554px;
+            margin-top: 90px;
+        ">Text-app</h1><br>
+        </div>
+            
+            <br>
+            <textarea type="text" name="text" style="text-align: left;text-decoration: dashed;right: 51px;width: 540px;height: 339px;border-radius: 15px;resize: none;position: relative;" placeholder="Type yout text here..."></textarea>
+            <div class="conmtainer" style="
+    position: relative;
+    right: -572px;
+    top: -287px;
+">
+            <div class="form-check form-switch">
+                <input class="form-check-input" name="removepunc" type="checkbox" role="switch" id="flexSwitchCheckDefault">
+                <label class="form-check-label" for="flexSwitchCheckDefault">Remove puncuation</label>
+              </div>
+              <div class="form-check form-switch">
+                <input class="form-check-input" name="uppercase" type="checkbox" role="switch" id="flexSwitchCheckDefault">
+                <label class="form-check-label" for="flexSwitchCheckDefault">Uppercase</label>
+              </div>
+              <div class="form-check form-switch">
+                <input class="form-check-input" name="lowercase" type="checkbox" role="switch" id="flexSwitchCheckDefault">
+                <label class="form-check-label" for="flexSwitchCheckDefault">Lowercase</label>
+                </div>
+                <button class="btn btn-outline-primary" type="submit"> Analayse text</button>
+            </div>
+            
+       
+            
+
+            
+
+        </form>
+        <div class="container" style="
+        position: relative;
+        left: 422px;
+        text-align: center;
+        top: -461px;
+        width: 540px;
+        height: 339px;
+        border: 1px solid black;
+        border-radius: 15px;
+    ">
+                <h1>Analaysing text......</h1> 
+                <p> Your text with <strong>{{your}}</strong></p>
+     
+                <strong>{{final}}</strong>
+             </div>
+        </div>
+    </body>
+</html>
