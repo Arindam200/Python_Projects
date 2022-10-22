@@ -1,19 +1,16 @@
-<p align="center"><b><h1>Python Projects is ready for Hacktoberfest🥳🥳🥳🥳</h1></b></p>
- <a href="https://hacktoberfest.com/">
- <img width="1200" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/79099734/189589410-ca17afb8-5855-4316-918a-054f27594809.png">
- </a>
- <br><br>
+
+
 <p align="center">
-    <img src="https://img.shields.io/github/issues/Arindam200/Python_Projects"> 
-    <img src="https://img.shields.io/github/issues-pr/Arindam200/Python_Projects">
-    <img src="https://img.shields.io/github/forks/Arindam200/Python_Projects">
-    <img src="https://img.shields.io/github/stars/Arindam200/Python_Projects">
-    <img src="https://img.shields.io/github/license/Arindam200/Python_Projects">
+    
 </p>
  
 # Python Projects 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/abhisheks008) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/abhisheks008) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/abhisheks008) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/abhisheks008)<img src="https://img.shields.io/github/issues/Arindam200/Python_Projects"> 
+    <img src="https://img.shields.io/github/issues-pr/Arindam200/Python_Projects">
+    <img src="https://img.shields.io/github/forks/Arindam200/Python_Projects">
+    <img src="https://img.shields.io/github/stars/Arindam200/Python_Projects">
+    <img src="https://img.shields.io/github/license/Arindam200/Python_Projects"> 
 
 
 A Collection of Beginner Python Projects.
