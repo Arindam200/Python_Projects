@@ -17,18 +17,6 @@ A Collection of Beginner Python Projects.
 
 If you want to learn about python, visit [here.](https://github.com/Python-World/Py-Resources)
 
-## ⭐⭐⭐Learn Difficult Python-Concepts from here 👇
-
-If you have any difficulties in understanding some of the so-called "complicated" features of Python, there is no place better than this [series on Hashnode](https://swapnoneel.hashnode.dev/series/python-advanced) by [Swapnoneel](https://github.com/Swpn0neel).
-<br>
-<br>
-Here, he has discussed about some under-used yet useful features of Python, alongwith Object-Oriented Programming, AI-ML & Data Analytics.
-<br>
-<br>
-Make sure to follow him on [Twitter](https://twitter.com/swapnoneel123) and subscribe to his [newsletter on Hashnode](https://swapnoneel.hashnode.dev/series/python-advanced)
-<br>
-<br>
-Here's the link to the series: https://swapnoneel.hashnode.dev/series/python-advanced
 
 ## ⭐ How to get started with open source?
 
